@@ -2,11 +2,9 @@
 
 ### Overview
 
-#### What's This All About? 🤔
+Are rats influenced by the actions of other rats? That's what we tried to uncover in this project! This project explores the Bystander Effect, but with a rodent twist. 
 
-Do rats change their behavior based on the actions of their rat buddies? That's exactly what we've delved into! This project explores the Bystander Effect, but with a rodent twist. 
-
-#### Problem Statement 🎯
+#### Problem Statement 🤔
 
 You've likely heard of the [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect) in humans, but what happens when we bring rats into the picture? Traditional statistical methods struggle to capture the nuances when multiple "test subjects" (in this case, rats) are in the mix. This project pioneers a solution to that challenge, dissecting the behavioral intricacies of rats influenced by their peers.
 
@@ -15,14 +13,8 @@ Our findings have already made waves in the academic realm, finding a home in th
 #### Features 🛠️
 
 - Complete R script for data analysis
-- Behavioral summary stats
-- Group vs. Individual comparisons
-- Advanced statistical tests
-
-#### Tech Stack 💻
-
-- **Language**: R
-- **Libraries**: `readxl`, `dplyr`, `plyr`, `PMCMR`
+- Creation of simulated duos and trios from individual rats to determine whether the group behavior is different than the sum of the individual behaviors.
+- Opening analysis and comparison across different groups (one or two bystanders, no bystanders, one or two naive rats)
 
 ### How To Get Started 🚀
 
